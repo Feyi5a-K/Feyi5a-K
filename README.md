@@ -16,7 +16,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80"/>
 
-- 🎓 **Background**: Electrical & Computer Engineering  
+- 🎓 **Background**: Electrical & Computer Engineering(BSc Degree) | Project Management
 - 👥 **Strengths**: Customer Handling, Empathy, Critical Thinking, Research  
 - 💻 **Currently Learning**: HTML, CSS, JavaScript, Git, React  
 - 🌍 **Vision**: To become a Classic Software Engineer  

@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <i>Frontend Developer | Electrical & Computer Engineer | Project Manager | Empathy-Driven Leader</i>
+  <i>Frontend Developer | Electrical & Computer Engineer | Junior Project Manager | Empathy-Driven Leader</i>
 </p>
 
 ---
